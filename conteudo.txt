@@ -1,0 +1,16 @@
+01 - Introdução (muitos videos)
+02 - Primeiros Passos com Power BI Desktop (Self Service BI)
+03 - Business Intelligence no Power BI
+04 - Modelagem e Relacionamento
+05 - Séries temporais, agregação e filtros
+06 - Mapas, Scatterplots e Dashboards Interativos
+07 - Power BI e Banco de dados Oracle
+08 - Microsoft Power BI Mobile
+09 - Introdução a Machine Learning
+10 - Microsoft Power BI e Linguagem R
+11 - Estatística Fundamental para Data Science
+12 - Microsoft Power BI e Facebook Analytics
+13 - "" Google Analytics
+14 - "" Apache Spark
+15 - Avaliação e Certificado de Conclusão
+16 - Deep learning Cognitive Toolkit
